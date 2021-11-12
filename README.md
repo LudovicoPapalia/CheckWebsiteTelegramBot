@@ -26,4 +26,6 @@ Probably i've done some stupid error, i'm still learning python so i'm not able 
 if tou want to use part of this project or fixing this \ giving me some tips to fix this i would be very grateful!
 If you create a new project from this please link it in the comments, i would loe to see it to learn!
 
+required: pip3 install python-telegram-bot
+
 
