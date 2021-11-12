@@ -5,7 +5,7 @@ I wanted to create a "private" bot for telegram
 
 what should it do:
 
-it checks a list of websites, it do the hash of the website and if someting is changed
+it checks a list of websites, it creates the hash of the website and if someting is changed
 in one of the sites, it sends a message to all users (i know, but for now it's ok) saying
 that something change on the website
 
